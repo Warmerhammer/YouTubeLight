@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YouTubeLight/static/css/main.80fa4290.chunk.css",
+    "main.js": "/YouTubeLight/static/js/main.108ec9e6.chunk.js",
+    "main.js.map": "/YouTubeLight/static/js/main.108ec9e6.chunk.js.map",
+    "runtime-main.js": "/YouTubeLight/static/js/runtime-main.4db9fabc.js",
+    "runtime-main.js.map": "/YouTubeLight/static/js/runtime-main.4db9fabc.js.map",
+    "static/js/2.ebda1668.chunk.js": "/YouTubeLight/static/js/2.ebda1668.chunk.js",
+    "static/js/2.ebda1668.chunk.js.map": "/YouTubeLight/static/js/2.ebda1668.chunk.js.map",
+    "index.html": "/YouTubeLight/index.html",
+    "static/css/main.80fa4290.chunk.css.map": "/YouTubeLight/static/css/main.80fa4290.chunk.css.map",
+    "static/js/2.ebda1668.chunk.js.LICENSE.txt": "/YouTubeLight/static/js/2.ebda1668.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4db9fabc.js",
+    "static/js/2.ebda1668.chunk.js",
+    "static/css/main.80fa4290.chunk.css",
+    "static/js/main.108ec9e6.chunk.js"
+  ]
+}
